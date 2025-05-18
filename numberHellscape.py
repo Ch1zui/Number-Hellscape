@@ -1,5 +1,5 @@
 # Number Guessing game 
-# Made by Joanne Al Garni -- May 16th 2025
+# Made by Chizu (Joanne) -- May 16th 2025
 
 
 #Importing proper modules
