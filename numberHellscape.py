@@ -1,7 +1,6 @@
 # Number Guessing game 
 # Made by Chizu (Joanne) -- May 16th 2025
 
-
 #Importing proper modules
 import random
 # Function to make text pink using ANSI escape codes 
