@@ -1,5 +1,5 @@
 Number Guessing Game - "Number Hellscape"
-Made with love by Joanne on May 16th 2025
+Made with love by Chizu on May 16th 2025
 
 🫧𓇼𓏲*ੈ✩‧₊˚🎐
 📖 About
@@ -30,7 +30,7 @@ Made with love by Joanne on May 16th 2025
 1. Download the python file: 'numberGuessingGame.py'
 2. Open your terminal/command prompt
 3. Run it with:
-```bash 
+` ` `bash 
 python numberGuessingGame.py
 
 ... and enjoy! <𝟑
