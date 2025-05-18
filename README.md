@@ -1,8 +1,8 @@
-Number Guessing Game - "Number Hellscape"
+# Number Guessing Game - "Number Hellscape"
 Made with love by Chizu on May 16th 2025
 
 🫧𓇼𓏲*ੈ✩‧₊˚🎐
-📖 About
+## 📖 About
 ✧˖°🌷📎⋆ ˚｡⋆୨୧˚
 
 ᯤ Just a silly CLI game I made using python to refresh my skills.  You guess a randomly generated number between 1 and 50. Each round keeps track of your attempts, and the program stores your best score across games •𐃷•.
@@ -36,12 +36,12 @@ python numberGuessingGame.py
 ... and enjoy! <𝟑
 
 𐙚 ˚🍰 ⋆｡˚ ᡣ𐭩
-🐻‍❄️ྀིྀི Note!:
+## 🐻‍❄️ྀིྀི Note!:
 ˙◠˙ Works best with terminals that support ANSI escape sequences (for colors not to turn into numbers)
 
 ──★ ˙🍓 ̟!!
 
-🎀PS:
+## 🎀PS:
 This was just a silly project to get me back into programming after stopping for almost a year. I know it's very simple but bare with me (˚ ˃̣̣̥⌓˂̣̣̥ )!!
 
 My next project might be some shopping sim with a job mechanic. We shall see!
