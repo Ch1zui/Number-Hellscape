@@ -9,7 +9,7 @@ Made with love by Chizu on May 16th 2025
 
 ִֶָ𓂃 ࣪˖ ִֶָ🐇་༘࿐
 
-🌸 Features:
+### 🌸 Features:
 ✎ Random number between 1 and 50
 ✎ Input validation to ensure numbers only
 ✎ Stats tracking:
@@ -22,11 +22,11 @@ Made with love by Chizu on May 16th 2025
 𓂃˖˳·˖ ִֶָ ⋆🌷͙⋆ ִֶָ˖·˳˖𓂃 ִֶָ
 ## 🛠️ How to run
 𓂃˖˳·˖ ִֶָ ⋆🌸͙⋆ ִֶָ˖·˳˖𓂃 ִֶָ
-🧸 Using `.EXE`:
+### 🧸 Using `.EXE`:
 1. Download the .exe file
 2. Run said .exe file by double clicking it and it should open your terminal/command prompt
 
-🦢 Using `.py`:
+### 🦢 Using `.py`:
 1. Download the python file: 'numberGuessingGame.py'
 2. Open your terminal/command prompt
 3. Run it with:
